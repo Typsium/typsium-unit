@@ -1,0 +1,10 @@
+[package]
+name = "typsium-unit"
+version = "0.1.0"
+license = "MIT"
+entrypoint = "lib.typ"
+authors = ["Ants Aare Alamaa <@Ants-Aare>"]
+description = "Format chemical quantities and concentrations in Typst correctly."
+categories = [ "layout", "text", "paper" ]
+disciplines = [ "education", "chemistry" ]
+keywords = ["chemistry", "chemical", "hazard", "precaution", "h and p", "statement", "hp", "ghs", "icon", "pictogram"]
